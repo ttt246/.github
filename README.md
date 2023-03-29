@@ -1,0 +1,2 @@
+# .github
+Software consulting services
